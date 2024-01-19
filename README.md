@@ -35,6 +35,8 @@ Collision Detection: The game detects collisions between the snake and its own b
 Randomized Food Placement: The food appears at random locations on the screen after being consumed by the snake.
 # Dependencies
 Python 3.x
+
 Turtle graphics library
-Acknowledgments
+
+# Acknowledgments
 This Snake Game is a simple yet entertaining project for Python enthusiasts. It serves as an introduction to basic game development concepts and the use of Turtle graphics.
