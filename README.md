@@ -9,18 +9,29 @@ To run the Snake Game, you need to have Python installed on your system. Clone t
 
 # Game Controls
 Up Arrow: Move the snake upwards
+
 Down Arrow: Move the snake downwards
+
 Left Arrow: Move the snake to the left
+
 Right Arrow: Move the snake to the right
+
 # Game Rules
 The snake starts with a length of 5 units.
+
 The snake can move in the specified directions using the arrow keys.
+
 The snake grows longer by one unit each time it eats the food.
+
 The game ends if the snake collides with its own body.
+
 The snake can wrap around the screen edges.
+
 # Features
 Boundary Wrapping: The snake can wrap around the screen edges, providing a continuous gaming experience.
+
 Collision Detection: The game detects collisions between the snake and its own body, triggering a game over when encountered.
+
 Randomized Food Placement: The food appears at random locations on the screen after being consumed by the snake.
 # Dependencies
 Python 3.x
